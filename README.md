@@ -15,8 +15,8 @@ My daily data structures & algorithms practice — LeetCode solutions in **Java*
 <!--INDEX:START-->
 | # | Problem | Difficulty | Language | Approach |
 |---|---------|------------|----------|----------|
-| 1 | [Two Sum](0001-two-sum/) | Easy | Java | Brute force: for each element, scan the rest of the array for a value that sums to the target. |
-| 9 | [Palindrome Number](0009-palindrome-number/) | Easy | Java | Convert the integer to a string and check palindromeness recursively, comparing the first and last characters. |
+| 1 | [Two Sum](0001-two-sum/) | Easy | Java | Brute force: for each element, scan the rest of the array for a value that sums to the ta… |
+| 9 | [Palindrome Number](0009-palindrome-number/) | Easy | Java | Convert the integer to a string and check palindromeness recursively, comparing the first… |
 | 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/) | Easy | Python |  |
 <!--INDEX:END-->
 
