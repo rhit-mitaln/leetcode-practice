@@ -39,3 +39,14 @@
 
 <p>&nbsp;</p>
 <strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than <code>O(n<sup>2</sup>)</code><font face="monospace">&nbsp;</font>time complexity?
+
+---
+
+## Approach
+
+Brute force: for each element, scan the rest of the array for a value that sums to the target.
+
+- **Time:** O(n²)
+- **Space:** O(1)
+
+**Follow-up:** can be done in O(n) time with a hash map — store `target - num` as you go.
