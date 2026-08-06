@@ -44,8 +44,10 @@ python3 2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py
 ```
 
 ## Languages
-- **Java**
-- **Python**
+-- **Java** — current
+-- **Python** — planned as more solutions are added
+-- **JavaScript** - planned for future JS related questions
+-- **Pandas** - planned for questions related to data manipulation, giving me practice for ML and Data Science concepts
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
