@@ -1,19 +1,26 @@
 # leetcode-practice
 
-My daily data structures & algorithms practice LeetCode solutions in **Java** and **Python**, built problem-by-problem to keep my DS&A fundamentals sharp.
+My daily data structures & algorithms practice — LeetCode solutions in **Java** and **Python**, built problem-by-problem to keep my DS&A fundamentals sharp.
 
 ## Progress
 
-**2 solved** ·🟢 2 Easy ·🟡 0 Medium ·🔴 0 Hard
+<!--PROGRESS:START-->
+**3 solved** · 3 Easy · 0 Medium · 0 Hard
+<!--PROGRESS:END-->
 
-> Problem counts are tracked automatically in `stats.json` as I add solutions.
+> Updated automatically from stats.json on every push.
 
 ## Problem Index
 
+<!--INDEX:START-->
 | # | Problem | Difficulty | Language | Approach |
 |---|---------|------------|----------|----------|
-| 1 | [Two Sum](0001-two-sum/) | Easy | Java | Brute force — nested loop, O(n²) |
-| 9 | [Palindrome Number](0009-palindrome-number/) | Easy | Java | String + recursion |
+| 1 | [Two Sum](0001-two-sum/) | Easy | Java | Brute force: for each element, scan the rest of the array for a value that sums to the target. |
+| 9 | [Palindrome Number](0009-palindrome-number/) | Easy | Java | Convert the integer to a string and check palindromeness recursively, comparing the first and last characters. |
+| 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/) | Easy | Python |  |
+<!--INDEX:END-->
+
+> Updated automatically from the repo contents on every push.
 
 ## Structure
 
@@ -30,17 +37,15 @@ javac 0001-two-sum/0001-two-sum.java
 java Solution
 ```
 
-**Python** — as Python solutions are added:
+**Python**
 
 ```bash
-python3 0001-two-sum/0001-two-sum.py
+python3 2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py
 ```
 
 ## Languages
-- **Java** — current
-- **Python** — planned as more solutions are added
-- **JavaScript** - planned for future JS related questions
-- **Pandas** - planned for questions related to data manipulation, giving me practice for ML and Data Science concepts
+- **Java**
+- **Python**
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -52,21 +57,8 @@ python3 0001-two-sum/0001-two-sum.py
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rhit-mitaln/leetcode-practice/tree/main/0001-two-sum) |
-| [2351-first-letter-to-appear-twice](https://github.com/rhit-mitaln/leetcode-practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rhit-mitaln/leetcode-practice/tree/main/0009-palindrome-number) |
-## String
-|  |
-| ------- |
-| [2351-first-letter-to-appear-twice](https://github.com/rhit-mitaln/leetcode-practice/tree/master/2351-first-letter-to-appear-twice) |
-## Bit Manipulation
-|  |
-| ------- |
-| [2351-first-letter-to-appear-twice](https://github.com/rhit-mitaln/leetcode-practice/tree/master/2351-first-letter-to-appear-twice) |
-## Counting
-|  |
-| ------- |
-| [2351-first-letter-to-appear-twice](https://github.com/rhit-mitaln/leetcode-practice/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
