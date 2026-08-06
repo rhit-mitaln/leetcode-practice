@@ -1,10 +1,10 @@
 # leetcode-practice
 
-My daily data structures & algorithms practice — LeetCode solutions in **Java** and **Python**, built problem-by-problem to keep my DS&A fundamentals sharp.
+My daily data structures & algorithms practice LeetCode solutions in **Java** and **Python**, built problem-by-problem to keep my DS&A fundamentals sharp.
 
 ## Progress
 
-**2 solved** · 2 Easy · 0 Medium · 0 Hard
+**2 solved** ·🟢 2 Easy ·🟡 0 Medium ·🔴 0 Hard
 
 > Problem counts are tracked automatically in `stats.json` as I add solutions.
 
@@ -39,6 +39,8 @@ python3 0001-two-sum/0001-two-sum.py
 ## Languages
 - **Java** — current
 - **Python** — planned as more solutions are added
+- **JavaScript** - planned for future JS related questions
+- **Pandas** - planned for questions related to data manipulation, giving me practice for ML and Data Science concepts
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
