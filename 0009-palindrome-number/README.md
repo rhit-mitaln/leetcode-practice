@@ -34,3 +34,14 @@
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you solve it without converting the integer to a string?
+
+---
+
+## Approach
+
+Convert the integer to a string and check palindromeness recursively, comparing the first and last characters.
+
+- **Time:** O(n), where n = number of digits
+- **Space:** O(n) due to recursion and substring copies
+
+**Follow-up:** can be solved without converting to a string by reversing only half of the integer and comparing.
