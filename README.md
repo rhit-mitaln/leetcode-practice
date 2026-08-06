@@ -52,8 +52,21 @@ python3 0001-two-sum/0001-two-sum.py
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rhit-mitaln/leetcode-practice/tree/main/0001-two-sum) |
+| [2351-first-letter-to-appear-twice](https://github.com/rhit-mitaln/leetcode-practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rhit-mitaln/leetcode-practice/tree/main/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/rhit-mitaln/leetcode-practice/tree/master/2351-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/rhit-mitaln/leetcode-practice/tree/master/2351-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/rhit-mitaln/leetcode-practice/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
