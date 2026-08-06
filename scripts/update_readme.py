@@ -41,7 +41,7 @@ def problem_title(folder):
     if readme.exists():
         m = re.search(r"<h2><a href=\"https://leetcode\.com/problems/[^\"]+\">([^<]+)</a></h2>", readme.read_text(errors="ignore"))
         if m:
-            return m.group(1).strip()
+            return re.sub(r"^\d+\.\s*", "", m.group(1)).strip()
     return folder.name[5:].replace("-", " ").title()
 
 
