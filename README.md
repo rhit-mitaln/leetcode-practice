@@ -63,4 +63,8 @@ python3 2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rhit-mitaln/leetcode-practice/tree/main/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
