@@ -56,6 +56,7 @@ python3 2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rhit-mitaln/leetcode-practice/tree/main/0001-two-sum) |
+| [0877-stone-game](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,8 +65,25 @@ python3 2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rhit-mitaln/leetcode-practice/tree/main/0009-palindrome-number) |
+| [0877-stone-game](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0058-length-of-last-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
