@@ -5,7 +5,7 @@ My daily data structures & algorithms practice — LeetCode solutions in **Java*
 ## Progress
 
 <!--PROGRESS:START-->
-**4 solved** · 4 Easy · 0 Medium · 0 Hard
+**5 solved** · 4 Easy · 1 Medium · 0 Hard
 <!--PROGRESS:END-->
 
 > Updated automatically from stats.json on every push.
@@ -18,6 +18,7 @@ My daily data structures & algorithms practice — LeetCode solutions in **Java*
 | 1 | [Two Sum](0001-two-sum/) | Easy | Java | Brute force: for each element, scan the rest of the array for a value that sums to the ta… |
 | 9 | [Palindrome Number](0009-palindrome-number/) | Easy | Java | Convert the integer to a string and check palindromeness recursively, comparing the first… |
 | 58 | [Length of Last Word](0058-length-of-last-word/) | Easy | Java |  |
+| 877 | [Stone Game](0877-stone-game/) | Medium | Java |  |
 | 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/) | Easy | Python |  |
 <!--INDEX:END-->
 
