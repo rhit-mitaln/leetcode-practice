@@ -58,6 +58,7 @@ python3 2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py
 | ------- |
 | [0001-two-sum](https://github.com/rhit-mitaln/leetcode-practice/tree/main/0001-two-sum) |
 | [0877-stone-game](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0877-stone-game) |
+| [3925-concatenate-array-with-reverse](https://github.com/rhit-mitaln/leetcode-practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +88,8 @@ python3 2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0877-stone-game) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/rhit-mitaln/leetcode-practice/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
