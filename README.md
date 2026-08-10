@@ -5,7 +5,7 @@ My daily data structures & algorithms practice — LeetCode solutions in **Java*
 ## Progress
 
 <!--PROGRESS:START-->
-**5 solved** · 4 Easy · 1 Medium · 0 Hard
+**6 solved** · 5 Easy · 1 Medium · 0 Hard
 <!--PROGRESS:END-->
 
 > Updated automatically from stats.json on every push.
@@ -20,6 +20,7 @@ My daily data structures & algorithms practice — LeetCode solutions in **Java*
 | 58 | [Length of Last Word](0058-length-of-last-word/) | Easy | Java |  |
 | 877 | [Stone Game](0877-stone-game/) | Medium | Java |  |
 | 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/) | Easy | Python |  |
+| 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/) | Easy | Java |  |
 <!--INDEX:END-->
 
 > Updated automatically from the repo contents on every push.
