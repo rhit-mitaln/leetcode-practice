@@ -5,7 +5,7 @@ My daily data structures & algorithms practice — LeetCode solutions in **Java*
 ## Progress
 
 <!--PROGRESS:START-->
-**6 solved** · 5 Easy · 1 Medium · 0 Hard
+**7 solved** · 6 Easy · 1 Medium · 0 Hard
 <!--PROGRESS:END-->
 
 > Updated automatically from stats.json on every push.
@@ -17,9 +17,10 @@ My daily data structures & algorithms practice — LeetCode solutions in **Java*
 |---|---------|------------|----------|----------|
 | 1 | [Two Sum](0001-two-sum/) | Easy | Java | Brute force: for each element, scan the rest of the array for a value that sums to the ta… |
 | 9 | [Palindrome Number](0009-palindrome-number/) | Easy | Java | Convert the integer to a string and check palindromeness recursively, comparing the first… |
-| 58 | [Length of Last Word](0058-length-of-last-word/) | Easy | Java |  Starts from the end of the string and finds the starting index of the last word by reducing the index by 1 until the space is found, then simply counting the characters between the newly found index and the length-1|
+| 58 | [Length of Last Word](0058-length-of-last-word/) | Easy | Java |  |
 | 877 | [Stone Game](0877-stone-game/) | Medium | Java |  |
 | 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/) | Easy | Python |  |
+| 3783 | [Mirror Distance of an Integer](3783-mirror-distance-of-an-integer/) | Easy | Python |  |
 | 3925 | [Concatenate Array With Reverse](3925-concatenate-array-with-reverse/) | Easy | Java |  |
 <!--INDEX:END-->
 
