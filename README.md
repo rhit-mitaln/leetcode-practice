@@ -69,6 +69,7 @@ python3 2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py
 | ------- |
 | [0009-palindrome-number](https://github.com/rhit-mitaln/leetcode-practice/tree/main/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0877-stone-game) |
+| [3783-mirror-distance-of-an-integer](https://github.com/rhit-mitaln/leetcode-practice/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
