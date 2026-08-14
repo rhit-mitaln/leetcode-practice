@@ -5,7 +5,7 @@ My daily data structures & algorithms practice — LeetCode solutions in **Java*
 ## Progress
 
 <!--PROGRESS:START-->
-**9 solved** · 7 Easy · 2 Medium · 0 Hard
+**10 solved** · 8 Easy · 2 Medium · 0 Hard
 <!--PROGRESS:END-->
 
 > Updated automatically from stats.json on every push.
@@ -17,6 +17,7 @@ My daily data structures & algorithms practice — LeetCode solutions in **Java*
 |---|---------|------------|----------|----------|
 | 1 | [Two Sum](0001-two-sum/) | Easy | Java | Brute force: for each element, scan the rest of the array for a value that sums to the ta… |
 | 9 | [Palindrome Number](0009-palindrome-number/) | Easy | Java | Convert the integer to a string and check palindromeness recursively, comparing the first… |
+| 21 | [Merge Two Sorted Lists](0021-merge-two-sorted-lists/) | Easy | Java |  |
 | 58 | [Length of Last Word](0058-length-of-last-word/) | Easy | Java |  |
 | 877 | [Stone Game](0877-stone-game/) | Medium | Java |  |
 | 2161 | [Partition Array According to Given Pivot](2161-partition-array-according-to-given-pivot/) | Medium | Java |  |
