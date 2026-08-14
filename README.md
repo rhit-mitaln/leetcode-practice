@@ -112,4 +112,12 @@ python3 2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rhit-mitaln/leetcode-practice/tree/master/3898-find-the-degree-of-each-vertex) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
