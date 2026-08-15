@@ -80,6 +80,7 @@ python3 2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0058-length-of-last-word) |
+| [3110-score-of-a-string](https://github.com/rhit-mitaln/leetcode-practice/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
