@@ -5,7 +5,7 @@ My daily data structures & algorithms practice — LeetCode solutions in **Java*
 ## Progress
 
 <!--PROGRESS:START-->
-**11 solved** · 9 Easy · 2 Medium · 0 Hard
+**12 solved** · 10 Easy · 2 Medium · 0 Hard
 <!--PROGRESS:END-->
 
 > Updated automatically from stats.json on every push.
@@ -22,6 +22,7 @@ My daily data structures & algorithms practice — LeetCode solutions in **Java*
 | 877 | [Stone Game](0877-stone-game/) | Medium | Java |  |
 | 2161 | [Partition Array According to Given Pivot](2161-partition-array-according-to-given-pivot/) | Medium | Java |  |
 | 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/) | Easy | Python |  |
+| 2942 | [Find Words Containing Character](2942-find-words-containing-character/) | Easy | Java |  |
 | 3110 | [Score of a String](3110-score-of-a-string/) | Easy | Java |  |
 | 3783 | [Mirror Distance of an Integer](3783-mirror-distance-of-an-integer/) | Easy | Python |  |
 | 3898 | [Find the Degree of Each Vertex](3898-find-the-degree-of-each-vertex/) | Easy | Java |  |
