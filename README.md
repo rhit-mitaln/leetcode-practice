@@ -65,6 +65,7 @@ python3 2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py
 | [0001-two-sum](https://github.com/rhit-mitaln/leetcode-practice/tree/main/0001-two-sum) |
 | [0877-stone-game](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0877-stone-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rhit-mitaln/leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2942-find-words-containing-character](https://github.com/rhit-mitaln/leetcode-practice/tree/master/2942-find-words-containing-character) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rhit-mitaln/leetcode-practice/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/rhit-mitaln/leetcode-practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -81,6 +82,7 @@ python3 2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0058-length-of-last-word) |
+| [2942-find-words-containing-character](https://github.com/rhit-mitaln/leetcode-practice/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/rhit-mitaln/leetcode-practice/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |
