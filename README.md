@@ -71,6 +71,7 @@ python3 2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py
 | [1920-build-array-from-permutation](https://github.com/rhit-mitaln/leetcode-practice/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rhit-mitaln/leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2942-find-words-containing-character](https://github.com/rhit-mitaln/leetcode-practice/tree/master/2942-find-words-containing-character) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rhit-mitaln/leetcode-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rhit-mitaln/leetcode-practice/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/rhit-mitaln/leetcode-practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -84,6 +85,7 @@ python3 2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py
 | [0258-add-digits](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/rhit-mitaln/leetcode-practice/tree/master/0877-stone-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rhit-mitaln/leetcode-practice/tree/master/2769-find-the-maximum-achievable-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rhit-mitaln/leetcode-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/rhit-mitaln/leetcode-practice/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
